@@ -16,3 +16,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 7:](https://github.com/rokas293/100-Days-of-Code-Python/tree/cfd1732fcac9b6653959e04c26d5b5b0437166eb/Day07) Hangman
 - [Day 8:](https://github.com/rokas293/100-Days-of-Code-Python/tree/824ae6fb2c6d95e7b1e5be9126db05d8c4ffe793/Day08) Function Parameters & Caesar Cipher
 - [Day 9:](https://github.com/rokas293/100-Days-of-Code-Python/tree/2a6f4d0c368cd30c3c255ecd2e95b2c8a7900efc/Day09) Dictionaries, Nesting and the Secret Auction
+- [Day 10:](https://github.com/rokas293/100-Days-of-Code-Python/tree/7c85514cdacd5a24bcbab7bb80f231e195b6c3c8/Day10) Functions with Outputs
