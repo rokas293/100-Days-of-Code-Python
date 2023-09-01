@@ -18,3 +18,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 9:](https://github.com/rokas293/100-Days-of-Code-Python/tree/2a6f4d0c368cd30c3c255ecd2e95b2c8a7900efc/Day09) Dictionaries, Nesting and the Secret Auction
 - [Day 10:](https://github.com/rokas293/100-Days-of-Code-Python/tree/7c85514cdacd5a24bcbab7bb80f231e195b6c3c8/Day10) Functions with Outputs
 - [Day 11:](https://github.com/rokas293/100-Days-of-Code-Python/tree/955f256b9c5b263bff8b93332a6e92b97213c8ef/Day11) The Blackjack Capstone Project
+- [Day 12:](https://github.com/rokas293/100-Days-of-Code-Python/tree/e61c60f1a12480058b3ef2dd0684881b6acc1148/Day12) Scope & Number Guessing Game
