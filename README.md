@@ -24,3 +24,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 
 - ## 📚 Intermediate
 - [Day 15:](https://github.com/rokas293/100-Days-of-Code-Python/tree/c8614bea3b46121cb04d644d066101f65f43ed19/Day15) Local Development Environment Setup & the Coffee Machine
+- [Day 16:](https://github.com/rokas293/100-Days-of-Code-Python/tree/ddebc66a0bf036bf9765181b34c0efdfd00a5856/Day16) Object Oriented Programming (OOP)
